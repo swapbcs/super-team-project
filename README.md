@@ -1,3 +1,6 @@
 # super-team-project
 
-collaborator Amir
+Collaborator:
+
+- Amir
+- Swapnil
